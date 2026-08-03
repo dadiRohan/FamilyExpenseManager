@@ -1,4 +1,5 @@
-# Family Expense Manager
+# Family Expense Manager <img width="20" height="20" alt="money-currency" src="https://github.com/user-attachments/assets/fee02115-0acb-416c-bf58-f952b769f639" />
+
 
 Family Expense Manager is a comprehensive web application designed to help households track daily expenditures, manage shared budgets, and gain insights into their financial health.
 
