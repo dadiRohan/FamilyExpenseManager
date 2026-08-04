@@ -39,4 +39,10 @@ Below are visual walkthroughs and screenshots demonstrating the application's in
 
 <img width="358" height="730" alt="6" src="https://github.com/user-attachments/assets/2e196c23-1539-4806-b171-4f2863630abf" />
 
+<img width="358" height="730" alt="7" src="https://github.com/user-attachments/assets/4b78f950-a313-41c5-a22c-8442300a7a27" />
+
+<img width="358" height="730" alt="8" src="https://github.com/user-attachments/assets/4cb17a4b-9982-4d8c-a409-5d82228939c5" />
+
+
+
 
