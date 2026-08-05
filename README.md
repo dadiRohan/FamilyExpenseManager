@@ -1,4 +1,5 @@
 # <img width="50" height="50" alt="BudgeTree-Logo" src="https://github.com/user-attachments/assets/4f173187-69da-41f4-afc4-02fc27a7fc84" />  BudgetTree (Family Expense Manager)
+This repository having socio app file : .apk
 
 
 Family Expense Manager is a comprehensive web application designed to help households track daily expenditures, manage shared budgets, and gain insights into their financial health.
