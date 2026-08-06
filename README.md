@@ -28,22 +28,17 @@ Below are visual walkthroughs and screenshots demonstrating the application's in
 
 <!-- Add your image links below -->
 ### Login and Registration
-<img width="358" height="730" alt="1" src="https://github.com/user-attachments/assets/0ac23b09-1106-45f2-a032-b256a4970f91" />
+<img width="358" height="730" alt="1" src="https://github.com/user-attachments/assets/a64b55b6-2c2b-4a28-9220-041d0c3f8eee" />
 
-<img width="358" height="730" alt="2" src="https://github.com/user-attachments/assets/97108fce-8a72-4d78-a10b-efc808f33028" />
+<img width="358" height="730" alt="2" src="https://github.com/user-attachments/assets/52d5a95f-5039-4622-8a38-d71dcb12df73" />
 
 ### Expense Dashboard
-<img width="358" height="730" alt="3" src="https://github.com/user-attachments/assets/41b6cd70-ae71-4b67-8d2f-ac7e69cc57e0" />
 
-<img width="358" height="730" alt="4" src="https://github.com/user-attachments/assets/59f87832-417a-4c0d-9a06-0ff46d608882" />
+<img width="358" height="730" alt="3" src="https://github.com/user-attachments/assets/589dad2b-d506-427e-9ce0-fa9fed2b8092" />
+<img width="358" height="730" alt="4" src="https://github.com/user-attachments/assets/320c3855-6998-46df-9b5a-3d5a12b9f203" />
+<img width="358" height="730" alt="5" src="https://github.com/user-attachments/assets/57af8a98-c5ff-4a8e-b69b-92b648ae09ce" />
+<img width="358" height="730" alt="6" src="https://github.com/user-attachments/assets/33512d04-12ef-4699-906d-4a02cd77bbfe" />
 
-<img width="358" height="730" alt="5" src="https://github.com/user-attachments/assets/be35c791-1569-4570-8993-490a367d697d" />
-
-<img width="358" height="730" alt="6" src="https://github.com/user-attachments/assets/2e196c23-1539-4806-b171-4f2863630abf" />
-
-<img width="358" height="730" alt="7" src="https://github.com/user-attachments/assets/4b78f950-a313-41c5-a22c-8442300a7a27" />
-
-<img width="358" height="730" alt="8" src="https://github.com/user-attachments/assets/4cb17a4b-9982-4d8c-a409-5d82228939c5" />
 
 
 
