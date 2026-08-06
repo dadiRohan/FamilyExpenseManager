@@ -6,6 +6,7 @@ This repository having socio app file : .apk
 Family Expense Manager is a comprehensive web application designed to help households track daily expenditures, manage shared budgets, and gain insights into their financial health.
 
 ## 🚀 Live Demo
+[budgetTree.webm](https://github.com/user-attachments/assets/3716fff5-35f8-4d91-ba8b-470638504e0b)
 
 Access the deployment here: [BudgetTree](https://family-expense-manager-frontend.vercel.app/)
 
@@ -38,6 +39,8 @@ Below are visual walkthroughs and screenshots demonstrating the application's in
 <img width="358" height="730" alt="4" src="https://github.com/user-attachments/assets/320c3855-6998-46df-9b5a-3d5a12b9f203" />
 <img width="358" height="730" alt="5" src="https://github.com/user-attachments/assets/57af8a98-c5ff-4a8e-b69b-92b648ae09ce" />
 <img width="358" height="730" alt="6" src="https://github.com/user-attachments/assets/33512d04-12ef-4699-906d-4a02cd77bbfe" />
+
+
 
 
 
