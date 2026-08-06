@@ -1,4 +1,5 @@
-# <img width="50" height="50" alt="BudgeTree-Logo" src="https://github.com/user-attachments/assets/4f173187-69da-41f4-afc4-02fc27a7fc84" />  BudgetTree (Family Expense Manager)
+# <img width="60" height="60" alt="BudgeTree-Logo" src="https://github.com/user-attachments/assets/6b88d074-b182-4ad5-9a69-0b9a8998fbd4" />  BudgetTree (Family Expense Manager)
+
 This repository having socio app file : .apk
 
 
