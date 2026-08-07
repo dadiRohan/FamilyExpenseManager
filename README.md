@@ -1,6 +1,6 @@
 # <img width="60" height="60" alt="BudgeTree-Logo" src="https://github.com/user-attachments/assets/6b88d074-b182-4ad5-9a69-0b9a8998fbd4" />  BudgetTree (Family Expense Manager)
 
-This repository having socio app file : .apk
+This repository having socio app file : [.apk](https://github.com/dadiRohan/FamilyExpenseManager/blob/main/BudgetTree.apk)
 
 
 Family Expense Manager is a comprehensive web application designed to help households track daily expenditures, manage shared budgets, and gain insights into their financial health.
@@ -8,7 +8,7 @@ Family Expense Manager is a comprehensive web application designed to help house
 ## 🚀 Live Demo
 [budgetTree.webm](https://github.com/user-attachments/assets/3716fff5-35f8-4d91-ba8b-470638504e0b)
 
-Access the deployment here: [BudgetTree](https://family-expense-manager-frontend.vercel.app/)
+Access the deployment here: [BudgetTree](https://budget-tree-mauve.vercel.app/login)
 
 ## ✨ Key Features
 
